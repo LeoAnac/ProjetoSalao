@@ -1,0 +1,25 @@
+/* Style.css */
+* { margin:0; padding: 0; }
+
+footer { background-color: #000; min-height: 180px; color:#999; padding:40px; }
+header { padding: 0px; background-color: #000; }
+nav {   }
+
+#main { padding: 50px; background: #white;  }
+#main img  { max-height: 400px; }
+#middle { background-color: grey; margin: 50px 0; }
+#logo { margin: 20px 0; width:210px;height:80px }
+#logoinsta { margin: 20px 0; width:210px;height:80px }
+#logoface { margin: 20px 0; width:210px;height:80px }
+#navegar { margin: 50px 0;}
+#sobre {margin: 50px 0;  }
+#sobre p { text-align: justify; color:#999; font-size: 18px; line-height: 1.8; padding-top:20px;}
+#blast { margin: 50px 0;}
+#rodape { margin-top:35px; }
+
+.lista_footer { margin-bottom: :90px; }
+.link_menu { margin-top:35px; }
+.link_menu a{ color:white; padding:10px;  }
+.link_menu a:hover{ background-color:white; color:black; }
+.center { text-align: center }
+.sharethis-inline-follow-buttons { margin-top:1px; }
