@@ -23,3 +23,11 @@ nav {   }
 .link_menu a:hover{ background-color:white; color:black; }
 .center { text-align: center }
 .sharethis-inline-follow-buttons { margin-top:1px; }
+
+/***/
+
+.icon-bar{
+    background-color:white;
+}
+
+
